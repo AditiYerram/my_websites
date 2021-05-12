@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    color : aquamarine;
+    line-height : 1.2 ;
+}
+#name{
+    font-size : 25;
+    line-height : 3;
+    font-family : cursive;
+} 
+h2{
+    font-size : 15;
+    line-height : 3;
+    font-family : times new roman;
+
+}
+.menu{
+   list-style: none; 
+  font-family: sans-serif; 
+    position: absolute;
+    top: 10px ;
+    right: 30px ;
+    z-index: 10;
+    cursor: pointer;
+}
+.links{
+    float: left;
+    color: aquamarine;
+    padding top: 5px;
+    padding right:9px; 
+    padding left : 9px;
+    padding bottom:5px ;
+}
